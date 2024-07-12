@@ -229,3 +229,8 @@ git fetch <remote-name>
 ```bash
 git pull origin main
 ```
+
+#### Push Forcelly
+```bash
+git push origin --force-with-lease <branch-name>
+```
